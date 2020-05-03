@@ -32,7 +32,7 @@ of each transport. If there is an instance that he is unable to make it, return 
 Output should contain T lines, each consisting of an integer.
 
 **Sample Input 0**
-'''
+```
 5
 10 10 10 1000
 731 467592
@@ -89,12 +89,12 @@ Output should contain T lines, each consisting of an integer.
 269 380425
 199 58093
 745 725521
-'''
+```
 **Sample Output 0**
-'''
+```
 -1
 -1
 -1
 -1
 214075065
-'''
+```
